@@ -1,1 +1,6 @@
-console.log("hello world")
+const hello = require('./Modules/hello')
+// const person = require('./Modules/people')
+const {person,person2,person3} = require("./Modules/people")
+hello(person)
+hello(person2)
+hello(person3)
