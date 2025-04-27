@@ -1,2 +1,13 @@
-const circle = require('./circle.js')
-console.log(`The area of a circle of radius 4 is ${circle.area(4)}`)
+(function(){
+    console.log("hello")
+})();
+let a = 1;
+console.log(a);
+
+(()=>{
+    console.log("hello man")
+})();
+
+(async()=>{
+    console.log("hello WORLD")
+})()
