@@ -1,0 +1,16 @@
+{
+  "name": "es6modules",
+  "version": "1.0.0",
+  "description": "this folder is for practicing modules",
+  "repository": {
+    "type": "git",
+    "url": "https://jennie"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
